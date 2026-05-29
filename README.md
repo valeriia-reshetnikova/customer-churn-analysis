@@ -1,6 +1,6 @@
 # Customer Churn Analysis & Prevention Strategy
 
-[View notebook on nbviewer](https://nbviewer.org/github/ВашеИмя/customer-churn-analysis/blob/main/notebooks/customer_churn_analysis.ipynb)
+[View notebook on nbviewer](https://nbviewer.org/github/valeriia-reshetnikova/customer-churn-analysis/blob/main/notebooks/customer_churn_analysis.ipynb)
 
 Analysis of customer attrition patterns for a telecom company using SQL and Python.
 The project identifies the key drivers of churn, quantifies their financial impact,
