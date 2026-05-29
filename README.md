@@ -74,6 +74,11 @@ critical early lifecycle window.
 |Churn Rate by Contract Type    |15x difference between M2M and two-year contracts                   |
 |Senior vs Non-Senior Churn     |Seniors churn at nearly 2x the rate of non-seniors                  |
 
+![Churn Rate by Customer Lifetime](visuals/01_churn_rate_by_tenure.png)
+![Monthly Revenue Leak by Tenure](visuals/02_monthly_leak_by_tenure.png)
+![Month-by-Month Churn Trend](visuals/03_churn_trend_by_month.png)
+![Churn Rate by Contract Type](visuals/04_churn_by_contract.png)
+![Senior vs Non-Senior Churn](visuals/05_churn_senior_vs_nonsenior.png)
 -----
 
 ## Business Recommendations
